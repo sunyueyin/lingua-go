@@ -1,5 +1,5 @@
 /*
- * Copyright © 2021-present Peter M. Stahl pemistahl@gmail.com
+ * Copyright © 2021-present Peter M. Stahl sunyueyin@gmail.com
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ package lingua
 import (
 	"archive/zip"
 	"fmt"
-	"github.com/pemistahl/lingua-go/serialization"
+	"github.com/sunyueyin/lingua-go/serialization"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/protobuf/proto"
 	"io"
